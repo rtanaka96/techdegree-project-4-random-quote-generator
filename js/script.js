@@ -45,7 +45,8 @@ let quotes = [
     "category": "film"
   },
   {
-    "quote": "The first day, I stood in the kitchen leaning against the counter watching Annie feed the cats, and I knew I wanted to be able to do that forever: Annie on My Mind - Nancy Garden",
+    "quote": "The first day, I stood in the kitchen leaning against the counter watching Annie feed the cats, and I knew I wanted to be able to do that forever.",
+    "source": "Annie on My Mind - Nancy Garden",
     "year": 1982,
     "citation": "GoodReads",
     "category": "book"
